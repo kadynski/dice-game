@@ -1,1 +1,1 @@
-# Roll-The-Dice
+Simple roll the dice browser game
