@@ -1,0 +1,42 @@
+body {
+  background-color: #EAE2B7;
+  text-align: center;
+}
+img {
+  max-width: 60vw;
+  max-height: 50vh;
+  margin-top: 70px;
+  transform: rotate(-15deg);
+}
+
+
+  /* button */
+
+  .btnDiv {
+    margin-top: 80px;
+  }
+
+.btn {
+	box-shadow: 2px -2px 0px 0px #cf866c;
+	background:linear-gradient(to bottom, #E0433E 5%, #d0451b 100%);
+	background-color:#d0451b;
+	border-radius:18px;
+	border:1px solid #942911;
+	display:inline-block;
+	cursor:pointer;
+	color:#f5faf6;
+	font-family: 'Indie Flower';
+	font-size:42px;
+  font-weight: 700;
+	padding:7px 25px;
+  text-decoration: none;
+	text-shadow:0px 1px 0px #a7c20f;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #ed0909 5%, #d0451b 100%);
+	background-color:#ed0909;
+}
+.btn:active {
+	position:relative;
+	top:2px;
+}
