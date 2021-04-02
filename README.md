@@ -1,1 +1,1 @@
-Simple roll the dice browser game for 2 player
+Simple roll the dice browser game for 2 players
